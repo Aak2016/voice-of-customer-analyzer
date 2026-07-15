@@ -29,6 +29,13 @@ The script sends the customer feedback to Claude (Anthropic's AI model) along wi
 
 ## What I learned
 
-- How to use a JSON schema to force an AI model's output into a reliable, predictable format instead of unpredictable free text.
-- How to keep API keys out of source code (and out of version control) using a `.env` file.
-- The practical difference between a general-purpose model and a faster, lighter one for a simple summarization task.
+- Prompt Engineering: Learned how small changes in prompts significantly impact output quality and consistency by iteratively refining prompts through multiple versions.
+- Designing Reliable AI Workflows: Understood the importance of structured outputs (JSON schemas) to make LLM responses predictable and consumable by downstream systems, turning an AI prototype into a production-ready workflow.
+- Prompt–Output Contracts: Learned to think of prompts as APIs, where the prompt guarantees a specific response structure that downstream components depend on, ensuring reliable orchestration.
+- LLM Application Architecture: Gained hands-on understanding of the core building blocks of an AI application—from defining prompts and invoking the model to parsing and validating responses.
+- Security Best Practices: Implemented secure API key management using environment variables (.env), version control exclusions (.gitignore), and experienced the importance of credential rotation after accidentally exposing a key.
+- Cost Optimization: Learned to balance quality and cost by configuring spending limits, usage alerts, and evaluating different models based on performance versus inference cost.
+- Model Selection: Explored trade-offs between different Claude models, understanding when a lightweight model is sufficient and when a more capable model is justified based on the use case.
+- Human-in-the-Loop Systems: Experienced how human review fits into AI workflows, understanding why many production AI products require human approval before taking critical actions.
+- AI Debugging & Iteration: Developed a structured approach to troubleshooting LLM applications by diagnosing context window issues, identifying model behavior problems, and iteratively resolving failures.
+- Working with AI as a Development Partner: Built my first AI application by collaborating with Claude as a coding assistant, learning how to effectively guide, validate, and iterate with AI to accelerate development while maintaining ownership of product decisions.
