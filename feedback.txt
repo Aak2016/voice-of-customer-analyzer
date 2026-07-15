@@ -1,0 +1,12 @@
+| #  | Rating | Customer Feedback                                                                                                                              |
+| -- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | ⭐⭐⭐⭐⭐  | I've been using this watch for three weeks and absolutely love it. The battery lasts almost a week, and the workout tracking is very accurate. |
+| 2  | ⭐⭐⭐⭐☆  | Great value for the price. Sleep tracking is surprisingly detailed, but I wish the display was a little brighter outdoors.                     |
+| 3  | ⭐⭐⭐⭐⭐  | The heart rate monitor seems very accurate compared to my chest strap. Setup took less than five minutes. Highly recommended!                  |
+| 4  | ⭐⭐☆☆☆  | Battery drains much faster after the latest software update. It barely lasts two days now. Please fix this.                                    |
+| 5  | ⭐☆☆☆☆  | Very disappointed. The watch randomly disconnects from my phone multiple times a day. I regret buying it.                                      |
+| 6  | ⭐⭐⭐☆☆  | It's an okay product. Fitness tracking is decent, but notifications are delayed quite often.                                                   |
+| 7  | ⭐⭐⭐⭐⭐  | I wear it every day. Love the lightweight design and the stress monitoring feature. The companion app is also easy to use.                     |
+| 8  | ⭐⭐☆☆☆  | GPS takes forever to lock onto my location. During runs it misses almost half the route.                                                       |
+| 9  | ⭐⭐⭐⭐☆  | Customer support was fantastic and quickly replaced my defective unit. The replacement works perfectly.                                        |
+| 10 | ⭐⭐⭐☆☆  | The hardware is excellent, but the mobile app crashes frequently on Android.                                                                   |
